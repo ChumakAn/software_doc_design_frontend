@@ -1,0 +1,10 @@
+.buttonToCreate {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border-radius: 8px;
+    font-size: 24px;
+    border: none;
+    background-color: #3677f6;
+    padding: 8px;
+}
